@@ -31,3 +31,16 @@ C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\obj\Debug\net7.0\refint\QueryAPI
 C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\obj\Debug\net7.0\QueryAPI.pdb
 C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\obj\Debug\net7.0\QueryAPI.genruntimeconfig.cache
 C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\obj\Debug\net7.0\ref\QueryAPI.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\DnsClient.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\Snappier.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\kis_b\Documents\repos\UseCase\QueryAPI\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll

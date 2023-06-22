@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  queryapi:
+    image: queryapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - mongo-db
+    environment:
+      - MongoDbSettings:ConnectionString=mongodb://mongo-db:27017
+    ports:
+      - "3000:80"
+
+  mongo-db:
+    image: mongo
+    volumes:
+      - mongodb_data_container:/data/db
+
+volumes:
+  mongodb_data_container:
